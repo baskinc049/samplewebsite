@@ -1,0 +1,16 @@
+{
+  "name": "samplewebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "homepage": "https://backinc049.github.io/samplewebsite",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
