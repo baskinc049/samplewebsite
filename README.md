@@ -5,4 +5,4 @@ Sample website with GitHub Pages
 - [ ] UI/UX Showcase
 - [ ] Front End App
 - [ ] Mobile (Progressive Web App)
-- [ ] Back End
+- [ ] Server & DB
